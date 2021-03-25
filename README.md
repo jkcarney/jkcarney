@@ -2,5 +2,5 @@ I am Joshua Carney, a junior Computer Science student at Millersville University
 
 Check out some of my repos below to see some of the games and projects I've helped created over the years, as well as my course work for several courses.
 
-- [Download my latest resume](https://www.dl.dropboxusercontent.com/s/dwxvyjc5k29q0su/Joshua_Carney_Resume_2021.pdf?dl=0)
+- Download my latest [resume](https://www.dl.dropboxusercontent.com/s/dwxvyjc5k29q0su/Joshua_Carney_Resume_2021.pdf?dl=0)
 - LinkedIn: https://www.linkedin.com/in/jkcarney/

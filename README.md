@@ -4,7 +4,7 @@ During the summer of 2021, I interned at Bentley Systems Inc. on the Developer I
 
 One of my most used tools is the Unity Engine. I've partcipated in many projects created in Unity, both through my education and through popular "game jams" such as the GMTK Game Jam. In my game design/game programming class, I developed three games in 3 different teams. Two of said games received some of the highest marks out of all projects produced over the course of the semester. Along with my brothers I have also participated in multiple online game jams, one of the biggest ones being the GMTK Game Jam 2020, where we placed in the top 2% overall out of over 5500 entries.
 
-When I'm not programming, I enjoy hobbies such as making music and operating sound boards for community and school theater. 
+When I'm not programming, I enjoy hobbies such as making music and operating sound equipment for community and school theater. 
 
 Check out some of my repos below to see some of the games and projects I've helped created over the years, as well as my course work for several courses.
 

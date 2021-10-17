@@ -2,7 +2,7 @@ B.S Computer Science senior at Millersville University. Broad experience in C#, 
 
 Former intern at Bentley Systems Inc, working on full-stack systems in ASP.NET Core, using tools and libraries such as Entity Framework, Razor pages, and Microsoft SQL Server.
 
-Check out some of my repos below to see some of the games and projects I've helped created over the years, as well as my course work for several courses.
+Languages I Know and have Experience With™: C#, Java, C++, Python, JavaScript
 
 - Download my latest [resume](https://www.dl.dropboxusercontent.com/s/cabw3jkslohlueg/Joshua_Carney_Resume_2021_2022_NO_CONTACT.pdf?dl=0)
 - LinkedIn: https://www.linkedin.com/in/jkcarney/

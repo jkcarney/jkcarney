@@ -1,8 +1,13 @@
-<h2>Hi, I'm Joshua Carney! <img height="30" src="media/joshua.gif"></h2>
+<h2>Hi, I'm Joshua Carney! <img height="50" src="media/joshua.gif"></h2>
 <img align='right' src="media/me.png" width="230">
 
-Languages and Tools:
-<br /><br />
+---
+
+<p><em>Computer Science Senior @ Millersville University</em></p>
+
+---
+
+<p><em>My most commonly used languages and tools:</em></p>
 <code><img height="30" src="media/csharp.svg"></code>
 <code><img height="30" src="media/dotnet.svg"></code>
 <code><img height="30" src="media/unity.svg"></code>
@@ -10,6 +15,8 @@ Languages and Tools:
 <code><img height="30" src="media/cplusplus.svg"></code>
 <code><img height="30" src="media/python.svg"></code>
 <code><img height="30" src="media/git.svg"></code>
+
+<br />
 
 ```java
 public class Joshua extends MyParents {

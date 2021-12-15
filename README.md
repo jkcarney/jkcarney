@@ -22,7 +22,9 @@
 
 <br />
 </div>
+
 ---
+
 <img align='right' src="media/me.png" width="260">
 
 ```java

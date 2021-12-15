@@ -1,4 +1,4 @@
-<h2>Hi, I'm Joshua Carney! <img height="30" src="media/joshua2.gif"></h2>
+<h2>Hi, I'm Joshua Carney! <img height="30" src="media/joshua3.gif"></h2>
 <img align='right' src="media/me.png" width="230">
 
 <p><em>Computer Science Senior @ <a href="https://www.millersville.edu/computerscience/">Millersville University<a></em></p>
@@ -14,7 +14,7 @@
 <code><img height="30" src="media/python.svg"></code>
 <code><img height="30" src="media/git.svg"></code>
 
-<br />
+<br /><br />
 
 ```java
 public class Joshua extends MyParents {
@@ -34,6 +34,8 @@ public class Joshua extends MyParents {
     }
 }
 ```
+
+---
 
 B.S Computer Science senior at Millersville University. Broad programming experience from using software and frameworks such as Unity and ASP.NET Core. Proficient knowledge of Unity's features as well as game prototyping through multiple projects in both educational courses and popular "game jams". Relevant coursework in topics such as data structures and algorithms, artificial intelligence, database management, agile software development, and object oriented design.
 

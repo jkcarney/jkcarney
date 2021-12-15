@@ -1,4 +1,4 @@
-<h2>Hi, I'm Joshua Carney!</h2>
+<h2>Hi, I'm Joshua Carney! <img height="30" src="media/joshua.gif"></h2>
 <img align='right' src="media/me.png" width="230">
 
 Languages and Tools:

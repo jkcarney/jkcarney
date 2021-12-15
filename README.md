@@ -18,8 +18,11 @@
 
 ---
 <div>
-    <img align='right' src="media/me.png" width="260" style="padding-top:500px;">
-
+    <style type="text/css">
+        img {padding-top:500px;}
+    </style>
+    <img align='right' src="media/me.png" width="260">
+    
     ```java
     public class Joshua extends MyParents {
 

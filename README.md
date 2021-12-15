@@ -13,7 +13,7 @@ public class Joshua extends MyParents {
             "photography",
             "walking my dogs",
             "video games",
-            "composing music”
+            "composing music"
         };
         
         String[] skills = new String[] {

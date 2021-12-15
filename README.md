@@ -1,7 +1,8 @@
 <h2>Hi, I'm Joshua Carney! <img height="40" src="media/joshua4.gif"></h2>
 <img align='right' src="media/me.png" width="230">
 
-<h4><em>Computer Science Senior @ <a href="https://www.millersville.edu/computerscience/">Millersville University<a></em></h4>
+<h3><em>Computer Science Senior @ <a href="https://www.millersville.edu/computerscience/">Millersville University<a></em></h3>
+<h3><em>Currently searching for a job! :)</em></h3>
 
 <p><em>My most commonly used languages and tools:</em></p>
 <code><img height="30" src="media/csharp.svg"></code>
@@ -12,7 +13,7 @@
 <code><img height="30" src="media/python.svg"></code>
 <code><img height="30" src="media/git.svg"></code>
 
-<br /><br />
+<br />
 
 ```java
 public class Joshua extends MyParents {

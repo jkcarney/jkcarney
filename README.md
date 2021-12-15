@@ -5,10 +5,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio_Website-12b844?style=flat-square&logo=GitHub&link=https://jkcarney.github.io)](https://jkcarney.github.io/)
 [![Resume](https://img.shields.io/badge/Resume-2e0073?style=flat-square&logo=Files&logoColor=ffffff&link=https://www.dl.dropboxusercontent.com/s/pc1q5svtg448sn1/Joshua_Carney_Resume_2021_2022_NO_CONTACT.pdf?dl=0)](https://www.dl.dropboxusercontent.com/s/pc1q5svtg448sn1/Joshua_Carney_Resume_2021_2022_NO_CONTACT.pdf?dl=0)
 
-<p><em>Computer Science Senior @ <a href="https://www.millersville.edu/computerscience/">Millersville University<a></em></p>
-
----
-
 <p><em>My most commonly used languages and tools:</em></p>
 <code><img height="30" src="media/csharp.svg"></code>
 <code><img height="30" src="media/dotnet.svg"></code>

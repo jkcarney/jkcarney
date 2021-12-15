@@ -1,4 +1,4 @@
-<h2>Hi, I'm Joshua Carney! <img height="40" src="media/joshua4.gif"></h2>
+<h1>Hi, I'm Joshua Carney! <img height="40" src="media/joshua4.gif"></h1>
 
 [![Linkedin: Joshua Carney](https://img.shields.io/badge/-Joshua_Carney-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jkcarney/)](https://www.linkedin.com/in/jkcarney/)
 [![Portfolio](https://img.shields.io/badge/Portfolio_Website-12b844?style=flat-square&logo=GitHub&link=https://jkcarney.github.io)](https://jkcarney.github.io/)

@@ -16,9 +16,6 @@
 <code><img height="32" src="media/javascript.svg"></code>
 <code><img height="32" src="media/git.svg"></code>
 <code><img height="32" src="media/github.svg"></code>
-<code><img height="32" src="media/windows.svg"></code>
-<code><img height="32" src="media/apple.svg"></code>
-<code><img height="32" src="media/linux.svg"></code>
 
 <br />
 </div>

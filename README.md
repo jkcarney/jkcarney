@@ -3,13 +3,13 @@
 
 Languages and Tools:
 <br /><br />
-<code><img height="40" src="media/csharp.svg"></code>
-<code><img height="40" src="media/dotnet.svg"></code>
-<code><img height="40" src="media/unity.svg"></code>
-<code><img height="40" src="media/java.svg"></code>
-<code><img height="40" src="media/cplusplus.svg"></code>
-<code><img height="40" src="media/python.svg"></code>
-<code><img height="40" src="media/git.svg"></code>
+<code><img height="30" src="media/csharp.svg"></code>
+<code><img height="30" src="media/dotnet.svg"></code>
+<code><img height="30" src="media/unity.svg"></code>
+<code><img height="30" src="media/java.svg"></code>
+<code><img height="30" src="media/cplusplus.svg"></code>
+<code><img height="30" src="media/python.svg"></code>
+<code><img height="30" src="media/git.svg"></code>
 
 ```java
 public class Joshua extends MyParents {

@@ -13,6 +13,9 @@
 <code><img height="35" src="media/python.svg"></code>
 <code><img height="35" src="media/javascript.svg"></code>
 <code><img height="35" src="media/git.svg"></code>
+<code><img height="35" src="media/windows.svg"></code>
+<code><img height="35" src="media/macos.svg"></code>
+<code><img height="35" src="media/linux.svg"></code>
 
 <br />
 

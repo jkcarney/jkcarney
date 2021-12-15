@@ -47,10 +47,6 @@ Former intern at Bentley Systems Inc, working on full-stack systems in ASP.NET C
 
 Currently working on an independent study to develop an AI agent for Fire Emblem 7, likely utilizing a Q-learning method to play the game and being able to beat artbitrary levels by data mining the emulation (We'll see how far I get in one semester 🤓)
 
-<img height="50" src="media/resume.svg" href="https://www.dl.dropboxusercontent.com/s/pc1q5svtg448sn1/Joshua_Carney_Resume_2021_2022_NO_CONTACT.pdf?dl=0"> Download my latest resume!
-<img height="50" src="media/linkedin.svg" href="https://www.linkedin.com/in/jkcarney/"> My LinkedIn!
-<img height="50" src="media/website.svg" href="https://jkcarney.github.io/"> Check out my portfolio website!
-
 - Download my latest [resume](https://www.dl.dropboxusercontent.com/s/pc1q5svtg448sn1/Joshua_Carney_Resume_2021_2022_NO_CONTACT.pdf?dl=0)
 - LinkedIn: https://www.linkedin.com/in/jkcarney/
 - Check out my website!: https://jkcarney.github.io/

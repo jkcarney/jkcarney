@@ -2,7 +2,8 @@
 <img align='right' src="media/me.png" width="260">
 
 [![Linkedin: Joshua Carney](https://img.shields.io/badge/-Joshua_Carney-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jkcarney/)](https://www.linkedin.com/in/jkcarney/)
-[![Portfolio](https://img.shields.io/badge/Portfolio_Website-lightgrey?style=flat-square&logo=GitHub&link=https://jkcarney.github.io)](https://jkcarney.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio_Website-12b844?style=flat-square&logo=GitHub&link=https://jkcarney.github.io)](https://jkcarney.github.io/)
+[![Resume](https://img.shields.io/badge/Resume-2e0073?style=flat-square&logo=Files&logoColor=ffffff&link=https://www.dl.dropboxusercontent.com/s/pc1q5svtg448sn1/Joshua_Carney_Resume_2021_2022_NO_CONTACT.pdf?dl=0)](https://www.dl.dropboxusercontent.com/s/pc1q5svtg448sn1/Joshua_Carney_Resume_2021_2022_NO_CONTACT.pdf?dl=0)
 
 <p><em>Computer Science Senior @ <a href="https://www.millersville.edu/computerscience/">Millersville University<a></em></p>
 
@@ -40,7 +41,3 @@ public class Joshua extends MyParents {
     }
 }
 ```
-
-- Download my latest [resume](https://www.dl.dropboxusercontent.com/s/pc1q5svtg448sn1/Joshua_Carney_Resume_2021_2022_NO_CONTACT.pdf?dl=0)
-- LinkedIn: https://www.linkedin.com/in/jkcarney/
-- Check out my website!: https://jkcarney.github.io/

@@ -1,9 +1,7 @@
-<h2>Hi, I'm Joshua Carney! <img height="50" src="media/joshua.gif"></h2>
+<h2>Hi, I'm Joshua Carney! <img height="30" src="media/joshua2.gif"></h2>
 <img align='right' src="media/me.png" width="230">
 
----
-
-<p><em>Computer Science Senior @ Millersville University</em></p>
+<p><em>Computer Science Senior @ <a href="https://www.millersville.edu/computerscience/">Millersville University<a></em></p>
 
 ---
 

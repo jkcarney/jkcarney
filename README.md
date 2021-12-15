@@ -15,6 +15,8 @@
 
 <br />
 
+---
+
 ```java
 public class Joshua extends MyParents {
 

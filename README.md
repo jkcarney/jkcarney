@@ -1,5 +1,5 @@
 <h2>Hi, I'm Joshua Carney! <img height="40" src="media/joshua4.gif"></h2>
-<img align='right' src="media/me.png" width="230">
+<img align='right' src="media/me.png" width="250">
 
 <p><em>Computer Science Senior @ <a href="https://www.millersville.edu/computerscience/">Millersville University<a></em></p>
 <p><em>Currently searching for a job! :)</em></p>

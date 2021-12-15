@@ -34,6 +34,14 @@ public class Joshua extends MyParents {
             "video games",
             "composing music"
         };
+
+        String[] skills = new String[] {
+            "object oriented programming",  // From education and internship
+            "game programming and design",  // From game jams and courses
+            "artificial intelligence",      // From independent study and courses
+            "full-stack development",       // From internship
+            "version control systems"       // From... everything
+        };
     }
 }
 ```

@@ -6,7 +6,13 @@ Currently working on an independent study to develop an AI agent for Fire Emblem
 
 Languages and Tools:
 <br />
-<code><img height="20" src="media/csharp.svg"></code>
+<code><img height="40" src="media/csharp.svg"></code>
+<code><img height="40" src="media/dotnet.svg"></code>
+<code><img height="40" src="media/unity.svg"></code>
+<code><img height="40" src="media/java.svg"></code>
+<code><img height="40" src="media/cplusplus.svg"></code>
+<code><img height="40" src="media/python.svg"></code>
+<code><img height="40" src="media/git.svg"></code>
 
 - Download my latest [resume](https://www.dl.dropboxusercontent.com/s/pc1q5svtg448sn1/Joshua_Carney_Resume_2021_2022_NO_CONTACT.pdf?dl=0)
 - LinkedIn: https://www.linkedin.com/in/jkcarney/

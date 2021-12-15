@@ -1,6 +1,16 @@
 <h2>Hi, I'm Joshua Carney!</h2>
 <img align='right' src="media/me.png" width="230">
 
+Languages and Tools:
+<br /><br />
+<code><img height="40" src="media/csharp.svg"></code>
+<code><img height="40" src="media/dotnet.svg"></code>
+<code><img height="40" src="media/unity.svg"></code>
+<code><img height="40" src="media/java.svg"></code>
+<code><img height="40" src="media/cplusplus.svg"></code>
+<code><img height="40" src="media/python.svg"></code>
+<code><img height="40" src="media/git.svg"></code>
+
 ```java
 public class Joshua extends MyParents {
 
@@ -16,15 +26,6 @@ public class Joshua extends MyParents {
             "video games",
             "composing music"
         };
-        
-        String[] skills = new String[] {
-            "C#", "Java", "Python", "C++", "Javascript",
-            "object oriented programming",  // From education and internship
-            "game programming and design",  // From game jams and courses
-            "artificial intelligence",      // From independent study and courses
-            "full-stack development",       // From internship
-            "version control systems"       // From... everything
-        };
     }
 }
 ```
@@ -35,15 +36,6 @@ Former intern at Bentley Systems Inc, working on full-stack systems in ASP.NET C
 
 Currently working on an independent study to develop an AI agent for Fire Emblem 7, likely utilizing a Q-learning method to play the game and being able to beat artbitrary levels by data mining the emulation (We'll see how far I get in one semester 🤓)
 
-Languages and Tools:
-<br /><br />
-<code><img height="40" src="media/csharp.svg"></code>
-<code><img height="40" src="media/dotnet.svg"></code>
-<code><img height="40" src="media/unity.svg"></code>
-<code><img height="40" src="media/java.svg"></code>
-<code><img height="40" src="media/cplusplus.svg"></code>
-<code><img height="40" src="media/python.svg"></code>
-<code><img height="40" src="media/git.svg"></code>
 
 - Download my latest [resume](https://www.dl.dropboxusercontent.com/s/pc1q5svtg448sn1/Joshua_Carney_Resume_2021_2022_NO_CONTACT.pdf?dl=0)
 - LinkedIn: https://www.linkedin.com/in/jkcarney/

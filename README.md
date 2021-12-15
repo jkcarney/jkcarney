@@ -5,11 +5,8 @@ public class Joshua extends MyParents {
 
     public Joshua() {
         String fullName = "Joshua Carney";
-        String homeTown = "Downingtown, Pennsylvania";
-
         String college = "Millersville University";
         Date expectedGradDate = new Date("May", 2022);
-        float GPA = 3.51;
 
         String[] hobbies = new String[] {
             "game jams",
@@ -18,10 +15,8 @@ public class Joshua extends MyParents {
             "video games",
             "composing music”
         };
-    }
-
-    public String[] getSkills() {
-        return new String[] {
+        
+        String[] skills = new String[] {
             "C#", "Java", "Python", "C++", "Javascript",
             "object oriented programming",  // From education and internship
             "game programming and design",  // From game jams and courses
@@ -30,8 +25,7 @@ public class Joshua extends MyParents {
             "version control systems"       // From... everything
         };
     }
-
-
+}
 ```
 
 B.S Computer Science senior at Millersville University. Broad programming experience from using software and frameworks such as Unity and ASP.NET Core. Proficient knowledge of Unity's features as well as game prototyping through multiple projects in both educational courses and popular "game jams". Relevant coursework in topics such as data structures and algorithms, artificial intelligence, database management, agile software development, and object oriented design.

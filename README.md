@@ -13,6 +13,7 @@
 <code><img height="30" src="media/java.svg"></code>
 <code><img height="30" src="media/cplusplus.svg"></code>
 <code><img height="30" src="media/python.svg"></code>
+<code><img height="30" src="media/javascript.svg"></code>
 <code><img height="30" src="media/git.svg"></code>
 
 <br />

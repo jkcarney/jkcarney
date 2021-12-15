@@ -1,4 +1,5 @@
 <h2>Hi, I'm Joshua Carney!</h2>
+<img align='right' src="media/me.jpg" width="230">
 
 ```java
 public class Joshua extends MyParents {

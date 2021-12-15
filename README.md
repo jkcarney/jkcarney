@@ -1,7 +1,8 @@
-[![Linkedin: Joshua Carney](https://img.shields.io/badge/-Joshua-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jkcarney/)](https://www.linkedin.com/in/jkcarney/)
-
 <h2>Hi, I'm Joshua Carney! <img height="40" src="media/joshua4.gif"></h2>
 <img align='right' src="media/me.png" width="260">
+
+[![Linkedin: Joshua Carney](https://img.shields.io/badge/-Joshua_Carney-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jkcarney/)](https://www.linkedin.com/in/jkcarney/)
+[![Portfolio](https://img.shields.io/badge/Portfolio_Website-lightgrey?style=flat-square&logo=GitHub&link=https://jkcarney.github.io)](https://jkcarney.github.io/)
 
 <p><em>Computer Science Senior @ <a href="https://www.millersville.edu/computerscience/">Millersville University<a></em></p>
 

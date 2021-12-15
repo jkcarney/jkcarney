@@ -18,7 +18,7 @@
 
 ---
 
-<img align='right' src="media/me.png" width="260" style=padding-top:150px;”>
+<img align='right' src="media/me.png" width="260" style=padding-top:500px;”>
 
 ```java
 public class Joshua extends MyParents {

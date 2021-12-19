@@ -23,6 +23,10 @@
 
 ---
 
+<img align='center' height="40" src="media/joshua4.gif">
+
+---
+
 <img align='right' src="media/me.png" width="260">
 
 ```java
@@ -51,5 +55,3 @@ public class Joshua extends MyParents {
     }
 }
 ```
-
-<img align='center' height="40" src="media/joshua4.gif">

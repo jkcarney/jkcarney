@@ -1,4 +1,7 @@
 <div align='center'> 
+
+<img height="40" src="media/joshua4.gif">
+
 <h1><img height="80"src="media/jawsh.gif" align='center'></h1> 
 
 [![Linkedin: Joshua Carney](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jkcarney/)](https://www.linkedin.com/in/jkcarney/)
@@ -18,10 +21,6 @@
 <code><img height="32" src="media/github.svg"></code>
 
 <br />
-
----
-
-<img align='center' height="40" src="media/joshua4.gif">
 
 </div>
 

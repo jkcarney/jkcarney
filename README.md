@@ -1,5 +1,5 @@
 <div align='center'> 
-<h1><img height="40"src="media/jawsh.gif"> <img height="40"src="media/joshua4.gif"></h1> 
+<h1><img height="80"src="media/jawsh.gif" align='center'> <img height="40"src="media/joshua4.gif"></h1> 
 
 
 <br />

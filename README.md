@@ -1,6 +1,6 @@
 <div align='center'> 
 <h1><img height="40" align='left' src="media/jawsh.gif"> <img height="40" align='right' src="media/joshua4.gif"></h1> 
-
+<br />
 [![Linkedin: Joshua Carney](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jkcarney/)](https://www.linkedin.com/in/jkcarney/)
 [![Twitter: Joshua Carney](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/joshcarney0)](https://twitter.com/joshcarney0)
 [![Portfolio](https://img.shields.io/badge/Portfolio_Website-12b844?style=flat-square&logo=GitHub&link=https://jkcarney.github.io)](https://jkcarney.github.io/)

@@ -1,7 +1,7 @@
 <div align='center'> 
 <h1><img height="80"src="media/jawsh.gif" align='center'></h1> 
 
-<img align='center' height="40"src="media/joshua4.gif">
+<img align='center' height="40" src="media/joshua4.gif">
 
 [![Linkedin: Joshua Carney](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jkcarney/)](https://www.linkedin.com/in/jkcarney/)
 [![Twitter: Joshua Carney](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/joshcarney0)](https://twitter.com/joshcarney0)

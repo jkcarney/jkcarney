@@ -1,5 +1,5 @@
 <div align='center'> 
-<h1>Hi, I'm Joshua Carney! <img height="40" src="media/joshua4.gif"></h1> 
+<h1><img height="40" align='left' src="media/jawsh.gif"> <img height="40" align='right' src="media/joshua4.gif"></h1> 
 
 [![Linkedin: Joshua Carney](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jkcarney/)](https://www.linkedin.com/in/jkcarney/)
 [![Twitter: Joshua Carney](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/joshcarney0)](https://twitter.com/joshcarney0)

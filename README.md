@@ -19,11 +19,12 @@
 
 <br />
 
-</div>
-
 ---
 
 <img align='center' height="40" src="media/joshua4.gif">
+
+</div>
+
 
 ---
 

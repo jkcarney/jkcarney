@@ -28,7 +28,7 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LANGUAGE: "False"
           SHOW_LOC_CHART: "False"
-          SHOW_SHORT_INFO: "True"
+          SHOW_SHORT_INFO: "False"
 #      - name: checkout repo content
 #        uses: actions/checkout@v2 # checkout the repository content to github runner.
 #      - name: setup python

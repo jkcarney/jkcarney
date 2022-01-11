@@ -9,7 +9,6 @@
 
 <img height="40" src="media/joshua4.gif">
 
-<p><em>My most commonly used languages and tools:</em></p>
 <code><img height="32" src="media/csharp.svg"></code>
 <code><img height="32" src="media/dotnet.svg"></code>
 <code><img height="32" src="media/unity.svg"></code>

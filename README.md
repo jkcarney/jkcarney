@@ -23,34 +23,3 @@
 
 </div>
 
-
----
-
-<img align='right' src="media/me.png" width="260">
-
-```java
-public class Joshua extends MyParents {
-
-    public Joshua() {
-        String fullName = "Joshua Carney";
-        String college = "Millersville University";
-        Date expectedGradDate = new Date("May", 2022);
-
-        String[] hobbies = new String[] {
-            "game jams",
-            "photography",
-            "walking my dogs",
-            "video games",
-            "composing music"
-        };
-
-        String[] skills = new String[] {
-            "object oriented programming",  // From education and internship
-            "game programming and design",  // From game jams and courses
-            "artificial intelligence",      // From independent study and courses
-            "full-stack development",       // From internship
-            "version control systems"       // From... everything
-        };
-    }
-}
-```

@@ -7,16 +7,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio_Website-12b844?style=flat-square&logo=GitHub&link=https://jkcarney.github.io)](https://jkcarney.github.io/)
 [![Resume](https://img.shields.io/badge/Resume-2022-2e0073?style=flat&logo=Files&logoColor=ffffff&link=https://www.dl.dropboxusercontent.com/s/pc1q5svtg448sn1/Joshua_Carney_Resume_2021_2022_NO_CONTACT.pdf?dl=0)](https://www.dl.dropboxusercontent.com/s/5hisbj9qvirjj37/Joshua_Carney_Resume_2022_NO_CONTACT.pdf?dl=0)
 
-<code><img height="32" src="media/csharp.svg"></code>
-<code><img height="32" src="media/dotnet.svg"></code>
-<code><img height="32" src="media/unity.svg"></code>
-<code><img height="32" src="media/java.svg"></code>
-<code><img height="32" src="media/cplusplus.svg"></code>
-<code><img height="32" src="media/python.svg"></code>
-<code><img height="32" src="media/javascript.svg"></code>
-<code><img height="32" src="media/git.svg"></code>
-<code><img height="32" src="media/github.svg"></code>
-
 <br />
   
 <img height="40" src="media/joshua4.gif">

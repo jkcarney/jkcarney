@@ -1,4 +1,4 @@
-<div align='center'> 
+
 
 <h1><img height="120"src="media/jawsh.gif" align='center'></h1> 
 
@@ -10,5 +10,4 @@
   
 <img height="40" src="media/joshua4.gif">
 
-</div>
 
